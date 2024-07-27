@@ -10,7 +10,10 @@ Both options will result in loss of printing volume in the X dimension. The poin
 For the aluminum 'plates' I resin print these in eSUN Hard Tough resin. If you can not source them I recommend this.
 
 BOM coming at some point. Only real difference from official Enclosed Vcore 3.1 IDEX BOM is: 
+
 2x M5x75 cap head screws
+
 2x M5x45 cap head screws
+
 2x M6x20 countersink screw.
 
