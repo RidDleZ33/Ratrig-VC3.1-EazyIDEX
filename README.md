@@ -15,5 +15,5 @@ BOM coming at some point. Only real difference from official Enclosed Vcore 3.1 
 
 2x M5x45 cap head screws
 
-2x M6x20 countersink screw.
+2x M6x20 countersink screw
 
