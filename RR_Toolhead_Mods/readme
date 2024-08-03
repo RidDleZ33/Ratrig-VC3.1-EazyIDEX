@@ -4,3 +4,6 @@ Notes:
 The spacer makes the revo height the same as the rapido
 
 The RR LGx_Lite_REVO plate is experimental. The hotend will end  up 1mm forward (closer to heatbreak cooling fan) from stock plate position. This should not cause any issues? I'll update when I know for sure.
+
+
+The front_beacon and toolboard_vertical parts were modified for fitment.
