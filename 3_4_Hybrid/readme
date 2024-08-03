@@ -1,3 +1,10 @@
+Print quantity notes: 1x unless specified
+2x vc4_y_belt_clamp_body
+2x vc4_y_belt_clamp_cap
+2x vc4_x_endstop
+2x vc4_xy_spacer
+2x vc4_y_bumper
+
 VC4 gantry on VC3.1
 
 BOM:
