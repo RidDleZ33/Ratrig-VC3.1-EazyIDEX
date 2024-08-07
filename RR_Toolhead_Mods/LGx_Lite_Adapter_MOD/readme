@@ -1,4 +1,5 @@
 This plate will adapt an LGx_Lite extruder to the new RR toolhead.
+Still need to make modified toolboard_vertical for standoff mount.**
 
 BOM:
 1x adapter (I resin printed it, but I'm sure you could FDM print)
