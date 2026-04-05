@@ -1,4 +1,4 @@
-#Crossbow CNC VC4_LGX_LITE_UNI
+# Crossbow CNC VC4_LGX_LITE_UNI
 
 Modified crossboy body and holder for Ratrig VC4 LGX Lite adapter toolheads. Simply buy a CNC crossbow and put all hardware on this printed variant.
 Handle can be mounted on either side for T1 or T0 heads. Still easilly replace razor. printed in PETG and have over 100 cuts with no issues so far, though I plan to print in Nylon eventually.
